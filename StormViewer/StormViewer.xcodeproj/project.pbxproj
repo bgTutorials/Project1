@@ -7,64 +7,47 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D391B9D31C31B1E7007A0D74 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D391B9D21C31B1E7007A0D74 /* AppDelegate.swift */; };
-		D391B9D51C31B1E7007A0D74 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D391B9D41C31B1E7007A0D74 /* ViewController.swift */; };
-		D391B9D81C31B1E7007A0D74 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D391B9D61C31B1E7007A0D74 /* Main.storyboard */; };
-		D391B9DA1C31B1E7007A0D74 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D391B9D91C31B1E7007A0D74 /* Assets.xcassets */; };
-		D391B9DD1C31B1E7007A0D74 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D391B9DB1C31B1E7007A0D74 /* LaunchScreen.storyboard */; };
-		D391B9E81C31B1E7007A0D74 /* StormViewerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D391B9E71C31B1E7007A0D74 /* StormViewerTests.swift */; };
-		D391B9F31C31B1E7007A0D74 /* StormViewerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D391B9F21C31B1E7007A0D74 /* StormViewerUITests.swift */; };
+		D3E6B3B91C31B557004103B3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3E6B3B81C31B557004103B3 /* AppDelegate.swift */; };
+		D3E6B3BB1C31B557004103B3 /* MasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3E6B3BA1C31B557004103B3 /* MasterViewController.swift */; };
+		D3E6B3BD1C31B557004103B3 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3E6B3BC1C31B557004103B3 /* DetailViewController.swift */; };
+		D3E6B3C01C31B557004103B3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D3E6B3BE1C31B557004103B3 /* Main.storyboard */; };
+		D3E6B3C21C31B557004103B3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D3E6B3C11C31B557004103B3 /* Assets.xcassets */; };
+		D3E6B3C51C31B557004103B3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D3E6B3C31C31B557004103B3 /* LaunchScreen.storyboard */; };
+		D3E6B3D71C31B6D6004103B3 /* nssl0033.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D3E6B3CD1C31B6D6004103B3 /* nssl0033.jpg */; };
+		D3E6B3D81C31B6D6004103B3 /* nssl0034.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D3E6B3CE1C31B6D6004103B3 /* nssl0034.jpg */; };
+		D3E6B3D91C31B6D6004103B3 /* nssl0041.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D3E6B3CF1C31B6D6004103B3 /* nssl0041.jpg */; };
+		D3E6B3DA1C31B6D6004103B3 /* nssl0042.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D3E6B3D01C31B6D6004103B3 /* nssl0042.jpg */; };
+		D3E6B3DB1C31B6D6004103B3 /* nssl0043.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D3E6B3D11C31B6D6004103B3 /* nssl0043.jpg */; };
+		D3E6B3DC1C31B6D6004103B3 /* nssl0045.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D3E6B3D21C31B6D6004103B3 /* nssl0045.jpg */; };
+		D3E6B3DD1C31B6D6004103B3 /* nssl0046.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D3E6B3D31C31B6D6004103B3 /* nssl0046.jpg */; };
+		D3E6B3DE1C31B6D6004103B3 /* nssl0049.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D3E6B3D41C31B6D6004103B3 /* nssl0049.jpg */; };
+		D3E6B3DF1C31B6D6004103B3 /* nssl0051.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D3E6B3D51C31B6D6004103B3 /* nssl0051.jpg */; };
+		D3E6B3E01C31B6D6004103B3 /* nssl0091.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D3E6B3D61C31B6D6004103B3 /* nssl0091.jpg */; };
 /* End PBXBuildFile section */
 
-/* Begin PBXContainerItemProxy section */
-		D391B9E41C31B1E7007A0D74 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D391B9C71C31B1E7007A0D74 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = D391B9CE1C31B1E7007A0D74;
-			remoteInfo = StormViewer;
-		};
-		D391B9EF1C31B1E7007A0D74 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D391B9C71C31B1E7007A0D74 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = D391B9CE1C31B1E7007A0D74;
-			remoteInfo = StormViewer;
-		};
-/* End PBXContainerItemProxy section */
-
 /* Begin PBXFileReference section */
-		D391B9CF1C31B1E7007A0D74 /* StormViewer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StormViewer.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		D391B9D21C31B1E7007A0D74 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		D391B9D41C31B1E7007A0D74 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		D391B9D71C31B1E7007A0D74 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		D391B9D91C31B1E7007A0D74 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		D391B9DC1C31B1E7007A0D74 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		D391B9DE1C31B1E7007A0D74 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D391B9E31C31B1E7007A0D74 /* StormViewerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StormViewerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		D391B9E71C31B1E7007A0D74 /* StormViewerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StormViewerTests.swift; sourceTree = "<group>"; };
-		D391B9E91C31B1E7007A0D74 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D391B9EE1C31B1E7007A0D74 /* StormViewerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StormViewerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		D391B9F21C31B1E7007A0D74 /* StormViewerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StormViewerUITests.swift; sourceTree = "<group>"; };
-		D391B9F41C31B1E7007A0D74 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D3E6B3B51C31B557004103B3 /* StormViewer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StormViewer.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D3E6B3B81C31B557004103B3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		D3E6B3BA1C31B557004103B3 /* MasterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterViewController.swift; sourceTree = "<group>"; };
+		D3E6B3BC1C31B557004103B3 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		D3E6B3BF1C31B557004103B3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		D3E6B3C11C31B557004103B3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		D3E6B3C41C31B557004103B3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		D3E6B3C61C31B557004103B3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D3E6B3CD1C31B6D6004103B3 /* nssl0033.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0033.jpg; sourceTree = "<group>"; };
+		D3E6B3CE1C31B6D6004103B3 /* nssl0034.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0034.jpg; sourceTree = "<group>"; };
+		D3E6B3CF1C31B6D6004103B3 /* nssl0041.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0041.jpg; sourceTree = "<group>"; };
+		D3E6B3D01C31B6D6004103B3 /* nssl0042.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0042.jpg; sourceTree = "<group>"; };
+		D3E6B3D11C31B6D6004103B3 /* nssl0043.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0043.jpg; sourceTree = "<group>"; };
+		D3E6B3D21C31B6D6004103B3 /* nssl0045.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0045.jpg; sourceTree = "<group>"; };
+		D3E6B3D31C31B6D6004103B3 /* nssl0046.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0046.jpg; sourceTree = "<group>"; };
+		D3E6B3D41C31B6D6004103B3 /* nssl0049.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0049.jpg; sourceTree = "<group>"; };
+		D3E6B3D51C31B6D6004103B3 /* nssl0051.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0051.jpg; sourceTree = "<group>"; };
+		D3E6B3D61C31B6D6004103B3 /* nssl0091.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0091.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		D391B9CC1C31B1E7007A0D74 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		D391B9E01C31B1E7007A0D74 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		D391B9EB1C31B1E7007A0D74 /* Frameworks */ = {
+		D3E6B3B21C31B557004103B3 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -74,67 +57,64 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		D391B9C61C31B1E7007A0D74 = {
+		D3E6B3AC1C31B557004103B3 = {
 			isa = PBXGroup;
 			children = (
-				D391B9D11C31B1E7007A0D74 /* StormViewer */,
-				D391B9E61C31B1E7007A0D74 /* StormViewerTests */,
-				D391B9F11C31B1E7007A0D74 /* StormViewerUITests */,
-				D391B9D01C31B1E7007A0D74 /* Products */,
+				D3E6B3B71C31B557004103B3 /* StormViewer */,
+				D3E6B3B61C31B557004103B3 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		D391B9D01C31B1E7007A0D74 /* Products */ = {
+		D3E6B3B61C31B557004103B3 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D391B9CF1C31B1E7007A0D74 /* StormViewer.app */,
-				D391B9E31C31B1E7007A0D74 /* StormViewerTests.xctest */,
-				D391B9EE1C31B1E7007A0D74 /* StormViewerUITests.xctest */,
+				D3E6B3B51C31B557004103B3 /* StormViewer.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		D391B9D11C31B1E7007A0D74 /* StormViewer */ = {
+		D3E6B3B71C31B557004103B3 /* StormViewer */ = {
 			isa = PBXGroup;
 			children = (
-				D391B9D21C31B1E7007A0D74 /* AppDelegate.swift */,
-				D391B9D41C31B1E7007A0D74 /* ViewController.swift */,
-				D391B9D61C31B1E7007A0D74 /* Main.storyboard */,
-				D391B9D91C31B1E7007A0D74 /* Assets.xcassets */,
-				D391B9DB1C31B1E7007A0D74 /* LaunchScreen.storyboard */,
-				D391B9DE1C31B1E7007A0D74 /* Info.plist */,
+				D3E6B3B81C31B557004103B3 /* AppDelegate.swift */,
+				D3E6B3BA1C31B557004103B3 /* MasterViewController.swift */,
+				D3E6B3BC1C31B557004103B3 /* DetailViewController.swift */,
+				D3E6B3BE1C31B557004103B3 /* Main.storyboard */,
+				D3E6B3C11C31B557004103B3 /* Assets.xcassets */,
+				D3E6B3C31C31B557004103B3 /* LaunchScreen.storyboard */,
+				D3E6B3C61C31B557004103B3 /* Info.plist */,
+				D3E6B3CC1C31B6D6004103B3 /* Content */,
 			);
 			path = StormViewer;
 			sourceTree = "<group>";
 		};
-		D391B9E61C31B1E7007A0D74 /* StormViewerTests */ = {
+		D3E6B3CC1C31B6D6004103B3 /* Content */ = {
 			isa = PBXGroup;
 			children = (
-				D391B9E71C31B1E7007A0D74 /* StormViewerTests.swift */,
-				D391B9E91C31B1E7007A0D74 /* Info.plist */,
+				D3E6B3CD1C31B6D6004103B3 /* nssl0033.jpg */,
+				D3E6B3CE1C31B6D6004103B3 /* nssl0034.jpg */,
+				D3E6B3CF1C31B6D6004103B3 /* nssl0041.jpg */,
+				D3E6B3D01C31B6D6004103B3 /* nssl0042.jpg */,
+				D3E6B3D11C31B6D6004103B3 /* nssl0043.jpg */,
+				D3E6B3D21C31B6D6004103B3 /* nssl0045.jpg */,
+				D3E6B3D31C31B6D6004103B3 /* nssl0046.jpg */,
+				D3E6B3D41C31B6D6004103B3 /* nssl0049.jpg */,
+				D3E6B3D51C31B6D6004103B3 /* nssl0051.jpg */,
+				D3E6B3D61C31B6D6004103B3 /* nssl0091.jpg */,
 			);
-			path = StormViewerTests;
-			sourceTree = "<group>";
-		};
-		D391B9F11C31B1E7007A0D74 /* StormViewerUITests */ = {
-			isa = PBXGroup;
-			children = (
-				D391B9F21C31B1E7007A0D74 /* StormViewerUITests.swift */,
-				D391B9F41C31B1E7007A0D74 /* Info.plist */,
-			);
-			path = StormViewerUITests;
+			path = Content;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D391B9CE1C31B1E7007A0D74 /* StormViewer */ = {
+		D3E6B3B41C31B557004103B3 /* StormViewer */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D391B9F71C31B1E7007A0D74 /* Build configuration list for PBXNativeTarget "StormViewer" */;
+			buildConfigurationList = D3E6B3C91C31B557004103B3 /* Build configuration list for PBXNativeTarget "StormViewer" */;
 			buildPhases = (
-				D391B9CB1C31B1E7007A0D74 /* Sources */,
-				D391B9CC1C31B1E7007A0D74 /* Frameworks */,
-				D391B9CD1C31B1E7007A0D74 /* Resources */,
+				D3E6B3B11C31B557004103B3 /* Sources */,
+				D3E6B3B21C31B557004103B3 /* Frameworks */,
+				D3E6B3B31C31B557004103B3 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -142,69 +122,25 @@
 			);
 			name = StormViewer;
 			productName = StormViewer;
-			productReference = D391B9CF1C31B1E7007A0D74 /* StormViewer.app */;
+			productReference = D3E6B3B51C31B557004103B3 /* StormViewer.app */;
 			productType = "com.apple.product-type.application";
-		};
-		D391B9E21C31B1E7007A0D74 /* StormViewerTests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = D391B9FA1C31B1E7007A0D74 /* Build configuration list for PBXNativeTarget "StormViewerTests" */;
-			buildPhases = (
-				D391B9DF1C31B1E7007A0D74 /* Sources */,
-				D391B9E01C31B1E7007A0D74 /* Frameworks */,
-				D391B9E11C31B1E7007A0D74 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				D391B9E51C31B1E7007A0D74 /* PBXTargetDependency */,
-			);
-			name = StormViewerTests;
-			productName = StormViewerTests;
-			productReference = D391B9E31C31B1E7007A0D74 /* StormViewerTests.xctest */;
-			productType = "com.apple.product-type.bundle.unit-test";
-		};
-		D391B9ED1C31B1E7007A0D74 /* StormViewerUITests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = D391B9FD1C31B1E7007A0D74 /* Build configuration list for PBXNativeTarget "StormViewerUITests" */;
-			buildPhases = (
-				D391B9EA1C31B1E7007A0D74 /* Sources */,
-				D391B9EB1C31B1E7007A0D74 /* Frameworks */,
-				D391B9EC1C31B1E7007A0D74 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				D391B9F01C31B1E7007A0D74 /* PBXTargetDependency */,
-			);
-			name = StormViewerUITests;
-			productName = StormViewerUITests;
-			productReference = D391B9EE1C31B1E7007A0D74 /* StormViewerUITests.xctest */;
-			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		D391B9C71C31B1E7007A0D74 /* Project object */ = {
+		D3E6B3AD1C31B557004103B3 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = "Brian Glowe";
 				TargetAttributes = {
-					D391B9CE1C31B1E7007A0D74 = {
+					D3E6B3B41C31B557004103B3 = {
 						CreatedOnToolsVersion = 7.2;
-					};
-					D391B9E21C31B1E7007A0D74 = {
-						CreatedOnToolsVersion = 7.2;
-						TestTargetID = D391B9CE1C31B1E7007A0D74;
-					};
-					D391B9ED1C31B1E7007A0D74 = {
-						CreatedOnToolsVersion = 7.2;
-						TestTargetID = D391B9CE1C31B1E7007A0D74;
 					};
 				};
 			};
-			buildConfigurationList = D391B9CA1C31B1E7007A0D74 /* Build configuration list for PBXProject "StormViewer" */;
+			buildConfigurationList = D3E6B3B01C31B557004103B3 /* Build configuration list for PBXProject "StormViewer" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -212,99 +148,65 @@
 				en,
 				Base,
 			);
-			mainGroup = D391B9C61C31B1E7007A0D74;
-			productRefGroup = D391B9D01C31B1E7007A0D74 /* Products */;
+			mainGroup = D3E6B3AC1C31B557004103B3;
+			productRefGroup = D3E6B3B61C31B557004103B3 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D391B9CE1C31B1E7007A0D74 /* StormViewer */,
-				D391B9E21C31B1E7007A0D74 /* StormViewerTests */,
-				D391B9ED1C31B1E7007A0D74 /* StormViewerUITests */,
+				D3E6B3B41C31B557004103B3 /* StormViewer */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		D391B9CD1C31B1E7007A0D74 /* Resources */ = {
+		D3E6B3B31C31B557004103B3 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D391B9DD1C31B1E7007A0D74 /* LaunchScreen.storyboard in Resources */,
-				D391B9DA1C31B1E7007A0D74 /* Assets.xcassets in Resources */,
-				D391B9D81C31B1E7007A0D74 /* Main.storyboard in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		D391B9E11C31B1E7007A0D74 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		D391B9EC1C31B1E7007A0D74 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
+				D3E6B3D81C31B6D6004103B3 /* nssl0034.jpg in Resources */,
+				D3E6B3DF1C31B6D6004103B3 /* nssl0051.jpg in Resources */,
+				D3E6B3C51C31B557004103B3 /* LaunchScreen.storyboard in Resources */,
+				D3E6B3DB1C31B6D6004103B3 /* nssl0043.jpg in Resources */,
+				D3E6B3D71C31B6D6004103B3 /* nssl0033.jpg in Resources */,
+				D3E6B3DC1C31B6D6004103B3 /* nssl0045.jpg in Resources */,
+				D3E6B3DD1C31B6D6004103B3 /* nssl0046.jpg in Resources */,
+				D3E6B3DE1C31B6D6004103B3 /* nssl0049.jpg in Resources */,
+				D3E6B3DA1C31B6D6004103B3 /* nssl0042.jpg in Resources */,
+				D3E6B3C21C31B557004103B3 /* Assets.xcassets in Resources */,
+				D3E6B3E01C31B6D6004103B3 /* nssl0091.jpg in Resources */,
+				D3E6B3D91C31B6D6004103B3 /* nssl0041.jpg in Resources */,
+				D3E6B3C01C31B557004103B3 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		D391B9CB1C31B1E7007A0D74 /* Sources */ = {
+		D3E6B3B11C31B557004103B3 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D391B9D51C31B1E7007A0D74 /* ViewController.swift in Sources */,
-				D391B9D31C31B1E7007A0D74 /* AppDelegate.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		D391B9DF1C31B1E7007A0D74 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				D391B9E81C31B1E7007A0D74 /* StormViewerTests.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		D391B9EA1C31B1E7007A0D74 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				D391B9F31C31B1E7007A0D74 /* StormViewerUITests.swift in Sources */,
+				D3E6B3BD1C31B557004103B3 /* DetailViewController.swift in Sources */,
+				D3E6B3BB1C31B557004103B3 /* MasterViewController.swift in Sources */,
+				D3E6B3B91C31B557004103B3 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
-/* Begin PBXTargetDependency section */
-		D391B9E51C31B1E7007A0D74 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = D391B9CE1C31B1E7007A0D74 /* StormViewer */;
-			targetProxy = D391B9E41C31B1E7007A0D74 /* PBXContainerItemProxy */;
-		};
-		D391B9F01C31B1E7007A0D74 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = D391B9CE1C31B1E7007A0D74 /* StormViewer */;
-			targetProxy = D391B9EF1C31B1E7007A0D74 /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
-
 /* Begin PBXVariantGroup section */
-		D391B9D61C31B1E7007A0D74 /* Main.storyboard */ = {
+		D3E6B3BE1C31B557004103B3 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				D391B9D71C31B1E7007A0D74 /* Base */,
+				D3E6B3BF1C31B557004103B3 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		D391B9DB1C31B1E7007A0D74 /* LaunchScreen.storyboard */ = {
+		D3E6B3C31C31B557004103B3 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				D391B9DC1C31B1E7007A0D74 /* Base */,
+				D3E6B3C41C31B557004103B3 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -312,7 +214,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		D391B9F51C31B1E7007A0D74 /* Debug */ = {
+		D3E6B3C71C31B557004103B3 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -357,7 +259,7 @@
 			};
 			name = Debug;
 		};
-		D391B9F61C31B1E7007A0D74 /* Release */ = {
+		D3E6B3C81C31B557004103B3 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -395,113 +297,49 @@
 			};
 			name = Release;
 		};
-		D391B9F81C31B1E7007A0D74 /* Debug */ = {
+		D3E6B3CA1C31B557004103B3 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = StormViewer/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = BG.StormViewer;
+				PRODUCT_BUNDLE_IDENTIFIER = com.brianglowe.StormViewer;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
 		};
-		D391B9F91C31B1E7007A0D74 /* Release */ = {
+		D3E6B3CB1C31B557004103B3 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = StormViewer/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = BG.StormViewer;
+				PRODUCT_BUNDLE_IDENTIFIER = com.brianglowe.StormViewer;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-			};
-			name = Release;
-		};
-		D391B9FB1C31B1E7007A0D74 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				INFOPLIST_FILE = StormViewerTests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = BG.StormViewerTests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/StormViewer.app/StormViewer";
-			};
-			name = Debug;
-		};
-		D391B9FC1C31B1E7007A0D74 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				INFOPLIST_FILE = StormViewerTests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = BG.StormViewerTests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/StormViewer.app/StormViewer";
-			};
-			name = Release;
-		};
-		D391B9FE1C31B1E7007A0D74 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				INFOPLIST_FILE = StormViewerUITests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = BG.StormViewerUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_TARGET_NAME = StormViewer;
-				USES_XCTRUNNER = YES;
-			};
-			name = Debug;
-		};
-		D391B9FF1C31B1E7007A0D74 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				INFOPLIST_FILE = StormViewerUITests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = BG.StormViewerUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_TARGET_NAME = StormViewer;
-				USES_XCTRUNNER = YES;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D391B9CA1C31B1E7007A0D74 /* Build configuration list for PBXProject "StormViewer" */ = {
+		D3E6B3B01C31B557004103B3 /* Build configuration list for PBXProject "StormViewer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D391B9F51C31B1E7007A0D74 /* Debug */,
-				D391B9F61C31B1E7007A0D74 /* Release */,
+				D3E6B3C71C31B557004103B3 /* Debug */,
+				D3E6B3C81C31B557004103B3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D391B9F71C31B1E7007A0D74 /* Build configuration list for PBXNativeTarget "StormViewer" */ = {
+		D3E6B3C91C31B557004103B3 /* Build configuration list for PBXNativeTarget "StormViewer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D391B9F81C31B1E7007A0D74 /* Debug */,
-				D391B9F91C31B1E7007A0D74 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-		};
-		D391B9FA1C31B1E7007A0D74 /* Build configuration list for PBXNativeTarget "StormViewerTests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				D391B9FB1C31B1E7007A0D74 /* Debug */,
-				D391B9FC1C31B1E7007A0D74 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-		};
-		D391B9FD1C31B1E7007A0D74 /* Build configuration list for PBXNativeTarget "StormViewerUITests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				D391B9FE1C31B1E7007A0D74 /* Debug */,
-				D391B9FF1C31B1E7007A0D74 /* Release */,
+				D3E6B3CA1C31B557004103B3 /* Debug */,
+				D3E6B3CB1C31B557004103B3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = D391B9C71C31B1E7007A0D74 /* Project object */;
+	rootObject = D3E6B3AD1C31B557004103B3 /* Project object */;
 }
